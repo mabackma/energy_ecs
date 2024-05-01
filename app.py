@@ -85,8 +85,8 @@ def is_valid_json(data):
         return False
 
 
-#token = get_token(username, password)
-token = os.getenv("USER_TOKEN")
+token = get_token(username, password)
+#token = os.getenv("USER_TOKEN")
 data_sources = get_data_sources(token)
 
 sources_list = []
@@ -127,7 +127,7 @@ for key in data_sources:
                 # Save to CSV using Polars
                 os.makedirs('./sensor_data_parquet', exist_ok=True)
                 parquet_file_path = f'./sensor_data_parquet/{info}.parquet'
-                df.write_parquet(parquet_file_path, compression='snappy', row_group_size=100000, use_pyarrow=False, use_threads=True, use_null_rle=True)
+                df.write_parquet(parquet_file_path, compression='snappy', row_group_size=100000, use_pyarrow=False)
 
                 # Save to CSV using pandas
                 #df_pandas = df.to_pandas()
