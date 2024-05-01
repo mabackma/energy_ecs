@@ -1,0 +1,1258 @@
+id,name,group,db_field,cumulative,unit
+0-50,LHT65 Battery level,Outdoor,payload.d.0.50,,
+0-51,LHT65 Battery V,Outdoor,payload.d.0.51,,
+0-52,Temperature,Outdoor,payload.d.0.52,,
+0-53,Humidity,Outdoor,payload.d.0.53,,
+0-54,Ext number,Outdoor,payload.d.0.54,,
+0-55,External temperature,Outdoor,payload.d.0.55,,
+2-1,Total power,Charging dock socket #1,payload.d.2.1,,
+2-2,L1 power,Charging dock socket #1,payload.d.2.2,,
+2-3,L2 power,Charging dock socket #1,payload.d.2.3,,
+2-4,L3 power,Charging dock socket #1,payload.d.2.4,,
+2-5,L1 current,Charging dock socket #1,payload.d.2.5,,
+2-6,L2 current,Charging dock socket #1,payload.d.2.6,,
+2-7,L3 current,Charging dock socket #1,payload.d.2.7,,
+2-8,N current,Charging dock socket #1,payload.d.2.8,,
+2-9,Frequency,Charging dock socket #1,payload.d.2.9,,
+2-10,L1-N voltage,Charging dock socket #1,payload.d.2.10,,
+2-11,L2-N voltage,Charging dock socket #1,payload.d.2.11,,
+2-12,L3-N voltage,Charging dock socket #1,payload.d.2.12,,
+2-13,L1-L2 voltage,Charging dock socket #1,payload.d.2.13,,
+2-14,L3-L2 voltage,Charging dock socket #1,payload.d.2.14,,
+2-15,L1-L3 voltage,Charging dock socket #1,payload.d.2.15,,
+2-16,Total import,Charging dock socket #1,payload.d.2.16,,
+2-17,Total export,Charging dock socket #1,payload.d.2.17,,
+2-18,Total net,Charging dock socket #1,payload.d.2.18,,
+2-19,L1 import,Charging dock socket #1,payload.d.2.19,,
+2-20,L1 export,Charging dock socket #1,payload.d.2.20,,
+2-21,L1 net,Charging dock socket #1,payload.d.2.21,,
+2-22,L2 import,Charging dock socket #1,payload.d.2.22,,
+2-23,L2 export,Charging dock socket #1,payload.d.2.23,,
+2-24,L2 net,Charging dock socket #1,payload.d.2.24,,
+2-25,L3 import,Charging dock socket #1,payload.d.2.25,,
+2-26,L3 export,Charging dock socket #1,payload.d.2.26,,
+2-27,L3 net,Charging dock socket #1,payload.d.2.27,,
+3-1,Total power,Charging dock socket #2,payload.d.3.1,,
+3-2,L1 power,Charging dock socket #2,payload.d.3.2,,
+3-3,L2 power,Charging dock socket #2,payload.d.3.3,,
+3-4,L3 power,Charging dock socket #2,payload.d.3.4,,
+3-5,L1 current,Charging dock socket #2,payload.d.3.5,,
+3-6,L2 current,Charging dock socket #2,payload.d.3.6,,
+3-7,L3 current,Charging dock socket #2,payload.d.3.7,,
+3-8,N current,Charging dock socket #2,payload.d.3.8,,
+3-9,Frequency,Charging dock socket #2,payload.d.3.9,,
+3-10,L1-N voltage,Charging dock socket #2,payload.d.3.10,,
+3-11,L2-N voltage,Charging dock socket #2,payload.d.3.11,,
+3-12,L3-N voltage,Charging dock socket #2,payload.d.3.12,,
+3-13,L1-L2 voltage,Charging dock socket #2,payload.d.3.13,,
+3-14,L3-L2 voltage,Charging dock socket #2,payload.d.3.14,,
+3-15,L1-L3 voltage,Charging dock socket #2,payload.d.3.15,,
+3-16,Total import,Charging dock socket #2,payload.d.3.16,,
+3-17,Total export,Charging dock socket #2,payload.d.3.17,,
+3-18,Total net,Charging dock socket #2,payload.d.3.18,,
+3-19,L1 import,Charging dock socket #2,payload.d.3.19,,
+3-20,L1 export,Charging dock socket #2,payload.d.3.20,,
+3-21,L1 net,Charging dock socket #2,payload.d.3.21,,
+3-22,L2 import,Charging dock socket #2,payload.d.3.22,,
+3-23,L2 export,Charging dock socket #2,payload.d.3.23,,
+3-24,L2 net,Charging dock socket #2,payload.d.3.24,,
+3-25,L3 import,Charging dock socket #2,payload.d.3.25,,
+3-26,L3 export,Charging dock socket #2,payload.d.3.26,,
+3-27,L3 net,Charging dock socket #2,payload.d.3.27,,
+4-1,Total power,Charging dock socket #3,payload.d.4.1,,
+4-2,L1 power,Charging dock socket #3,payload.d.4.2,,
+4-3,L2 power,Charging dock socket #3,payload.d.4.3,,
+4-4,L3 power,Charging dock socket #3,payload.d.4.4,,
+4-5,L1 current,Charging dock socket #3,payload.d.4.5,,
+4-6,L2 current,Charging dock socket #3,payload.d.4.6,,
+4-7,L3 current,Charging dock socket #3,payload.d.4.7,,
+4-8,N current,Charging dock socket #3,payload.d.4.8,,
+4-9,Frequency,Charging dock socket #3,payload.d.4.9,,
+4-10,L1-N voltage,Charging dock socket #3,payload.d.4.10,,
+4-11,L2-N voltage,Charging dock socket #3,payload.d.4.11,,
+4-12,L3-N voltage,Charging dock socket #3,payload.d.4.12,,
+4-13,L1-L2 voltage,Charging dock socket #3,payload.d.4.13,,
+4-14,L3-L2 voltage,Charging dock socket #3,payload.d.4.14,,
+4-15,L1-L3 voltage,Charging dock socket #3,payload.d.4.15,,
+4-16,Total import,Charging dock socket #3,payload.d.4.16,,
+4-17,Total export,Charging dock socket #3,payload.d.4.17,,
+4-18,Total net,Charging dock socket #3,payload.d.4.18,,
+4-19,L1 import,Charging dock socket #3,payload.d.4.19,,
+4-20,L1 export,Charging dock socket #3,payload.d.4.20,,
+4-21,L1 net,Charging dock socket #3,payload.d.4.21,,
+4-22,L2 import,Charging dock socket #3,payload.d.4.22,,
+4-23,L2 export,Charging dock socket #3,payload.d.4.23,,
+4-24,L2 net,Charging dock socket #3,payload.d.4.24,,
+4-25,L3 import,Charging dock socket #3,payload.d.4.25,,
+4-26,L3 export,Charging dock socket #3,payload.d.4.26,,
+4-27,L3 net,Charging dock socket #3,payload.d.4.27,,
+5-1,Total power,Charging dock socket #4,payload.d.5.1,,
+5-2,L1 power,Charging dock socket #4,payload.d.5.2,,
+5-3,L2 power,Charging dock socket #4,payload.d.5.3,,
+5-4,L3 power,Charging dock socket #4,payload.d.5.4,,
+5-5,L1 current,Charging dock socket #4,payload.d.5.5,,
+5-6,L2 current,Charging dock socket #4,payload.d.5.6,,
+5-7,L3 current,Charging dock socket #4,payload.d.5.7,,
+5-8,N current,Charging dock socket #4,payload.d.5.8,,
+5-9,Frequency,Charging dock socket #4,payload.d.5.9,,
+5-10,L1-N voltage,Charging dock socket #4,payload.d.5.10,,
+5-11,L2-N voltage,Charging dock socket #4,payload.d.5.11,,
+5-12,L3-N voltage,Charging dock socket #4,payload.d.5.12,,
+5-13,L1-L2 voltage,Charging dock socket #4,payload.d.5.13,,
+5-14,L3-L2 voltage,Charging dock socket #4,payload.d.5.14,,
+5-15,L1-L3 voltage,Charging dock socket #4,payload.d.5.15,,
+5-16,Total import,Charging dock socket #4,payload.d.5.16,,
+5-17,Total export,Charging dock socket #4,payload.d.5.17,,
+5-18,Total net,Charging dock socket #4,payload.d.5.18,,
+5-19,L1 import,Charging dock socket #4,payload.d.5.19,,
+5-20,L1 export,Charging dock socket #4,payload.d.5.20,,
+5-21,L1 net,Charging dock socket #4,payload.d.5.21,,
+5-22,L2 import,Charging dock socket #4,payload.d.5.22,,
+5-23,L2 export,Charging dock socket #4,payload.d.5.23,,
+5-24,L2 net,Charging dock socket #4,payload.d.5.24,,
+5-25,L3 import,Charging dock socket #4,payload.d.5.25,,
+5-26,L3 export,Charging dock socket #4,payload.d.5.26,,
+5-27,L3 net,Charging dock socket #4,payload.d.5.27,,
+8-1,Total power,Charging dock socket #5,payload.d.8.1,,
+8-2,L1 power,Charging dock socket #5,payload.d.8.2,,
+8-3,L2 power,Charging dock socket #5,payload.d.8.3,,
+8-4,L3 power,Charging dock socket #5,payload.d.8.4,,
+8-5,L1 current,Charging dock socket #5,payload.d.8.5,,
+8-6,L2 current,Charging dock socket #5,payload.d.8.6,,
+8-7,L3 current,Charging dock socket #5,payload.d.8.7,,
+8-8,N current,Charging dock socket #5,payload.d.8.8,,
+8-9,Frequency,Charging dock socket #5,payload.d.8.9,,
+8-10,L1-N voltage,Charging dock socket #5,payload.d.8.10,,
+8-11,L2-N voltage,Charging dock socket #5,payload.d.8.11,,
+8-12,L3-N voltage,Charging dock socket #5,payload.d.8.12,,
+8-13,L1-L2 voltage,Charging dock socket #5,payload.d.8.13,,
+8-14,L3-L2 voltage,Charging dock socket #5,payload.d.8.14,,
+8-15,L1-L3 voltage,Charging dock socket #5,payload.d.8.15,,
+8-16,Total import,Charging dock socket #5,payload.d.8.16,,
+8-17,Total export,Charging dock socket #5,payload.d.8.17,,
+8-18,Total net,Charging dock socket #5,payload.d.8.18,,
+8-19,L1 import,Charging dock socket #5,payload.d.8.19,,
+8-20,L1 export,Charging dock socket #5,payload.d.8.20,,
+8-21,L1 net,Charging dock socket #5,payload.d.8.21,,
+8-22,L2 import,Charging dock socket #5,payload.d.8.22,,
+8-23,L2 export,Charging dock socket #5,payload.d.8.23,,
+8-24,L2 net,Charging dock socket #5,payload.d.8.24,,
+8-25,L3 import,Charging dock socket #5,payload.d.8.25,,
+8-26,L3 export,Charging dock socket #5,payload.d.8.26,,
+8-27,L3 net,Charging dock socket #5,payload.d.8.27,,
+9-1,Total power,Safari house,payload.d.9.1,,
+9-2,L1 power,Safari house,payload.d.9.2,,
+9-3,L2 power,Safari house,payload.d.9.3,,
+9-4,L3 power,Safari house,payload.d.9.4,,
+9-5,L1 current,Safari house,payload.d.9.5,,
+9-6,L2 current,Safari house,payload.d.9.6,,
+9-7,L3 current,Safari house,payload.d.9.7,,
+9-8,N current,Safari house,payload.d.9.8,,
+9-9,Frequency,Safari house,payload.d.9.9,,
+9-10,L1-N voltage,Safari house,payload.d.9.10,,
+9-11,L2-N voltage,Safari house,payload.d.9.11,,
+9-12,L3-N voltage,Safari house,payload.d.9.12,,
+9-13,L1-L2 voltage,Safari house,payload.d.9.13,,
+9-14,L3-L2 voltage,Safari house,payload.d.9.14,,
+9-15,L1-L3 voltage,Safari house,payload.d.9.15,,
+9-16,Total import,Safari house,payload.d.9.16,,
+9-17,Total export,Safari house,payload.d.9.17,,
+9-18,Total net,Safari house,payload.d.9.18,,
+9-19,L1 import,Safari house,payload.d.9.19,,
+9-20,L1 export,Safari house,payload.d.9.20,,
+9-21,L1 net,Safari house,payload.d.9.21,,
+9-22,L2 import,Safari house,payload.d.9.22,,
+9-23,L2 export,Safari house,payload.d.9.23,,
+9-24,L2 net,Safari house,payload.d.9.24,,
+9-25,L3 import,Safari house,payload.d.9.25,,
+9-26,L3 export,Safari house,payload.d.9.26,,
+9-27,L3 net,Safari house,payload.d.9.27,,
+9-50,LHT65 Battery level,Safari house,payload.d.9.50,,
+9-51,LHT65 Battery V,Safari house,payload.d.9.51,,
+9-52,Temperature,Safari house,payload.d.9.52,,
+9-53,Humidity,Safari house,payload.d.9.53,,
+9-54,Ext number,Safari house,payload.d.9.54,,
+9-55,External temperature,Safari house,payload.d.9.55,,
+10-1,Total power,Cold chamber,payload.d.10.1,,
+10-2,L1 power,Cold chamber,payload.d.10.2,,
+10-3,L2 power,Cold chamber,payload.d.10.3,,
+10-4,L3 power,Cold chamber,payload.d.10.4,,
+10-5,L1 current,Cold chamber,payload.d.10.5,,
+10-6,L2 current,Cold chamber,payload.d.10.6,,
+10-7,L3 current,Cold chamber,payload.d.10.7,,
+10-8,N current,Cold chamber,payload.d.10.8,,
+10-9,Frequency,Cold chamber,payload.d.10.9,,
+10-10,L1-N voltage,Cold chamber,payload.d.10.10,,
+10-11,L2-N voltage,Cold chamber,payload.d.10.11,,
+10-12,L3-N voltage,Cold chamber,payload.d.10.12,,
+10-13,L1-L2 voltage,Cold chamber,payload.d.10.13,,
+10-14,L3-L2 voltage,Cold chamber,payload.d.10.14,,
+10-15,L1-L3 voltage,Cold chamber,payload.d.10.15,,
+10-16,Total import,Cold chamber,payload.d.10.16,,
+10-17,Total export,Cold chamber,payload.d.10.17,,
+10-18,Total net,Cold chamber,payload.d.10.18,,
+10-19,L1 import,Cold chamber,payload.d.10.19,,
+10-20,L1 export,Cold chamber,payload.d.10.20,,
+10-21,L1 net,Cold chamber,payload.d.10.21,,
+10-22,L2 import,Cold chamber,payload.d.10.22,,
+10-23,L2 export,Cold chamber,payload.d.10.23,,
+10-24,L2 net,Cold chamber,payload.d.10.24,,
+10-25,L3 import,Cold chamber,payload.d.10.25,,
+10-26,L3 export,Cold chamber,payload.d.10.26,,
+10-27,L3 net,Cold chamber,payload.d.10.27,,
+inv-1,E_Day,Inverter,payload.d.inv.1,,
+inv-2,E_Total,Inverter,payload.d.inv.2,,
+inv-3,E_year,Inverter,payload.d.inv.3,,
+inv-4,Current power,Inverter,payload.d.inv.4,,
+pf-1,Site_P_Grid,Powerflow,payload.d.pf.1,,
+pf-2,Site_P_Load,Powerflow,payload.d.pf.2,,
+pf-3,Site_P_PV,Powerflow,payload.d.pf.3,,
+pf-4,Site_P_Akku,Powerflow,payload.d.pf.4,,
+pf-5,Site_Battery Standby,Powerflow,payload.d.pf.5,,
+pf-6,Site_E_Day,Powerflow,payload.d.pf.6,,
+pf-7,Site_E_Total,Powerflow,payload.d.pf.7,,
+pf-8,Site_E_Year,Powerflow,payload.d.pf.8,,
+pf-9,Inv_DT,Powerflow,payload.d.pf.9,,
+pf-10,Inv_E_day,Powerflow,payload.d.pf.10,,
+pf-11,Inv_E_Total,Powerflow,payload.d.pf.11,,
+pf-12,Inv_E_Year,Powerflow,payload.d.pf.12,,
+pf-13,Inv_P,Powerflow,payload.d.pf.13,,
+pf-14,Inv_SOC,Powerflow,payload.d.pf.14,,
+inv-1,E_Day,Inverter,payload.d.inv.1,,
+inv-2,E_Total,Inverter,payload.d.inv.2,,
+inv-3,E_year,Inverter,payload.d.inv.3,,
+inv-4,Current power,Inverter,payload.d.inv.4,,
+pf-1,Site_P_Grid,Powerflow,payload.d.pf.1,,
+pf-2,Site_P_Load,Powerflow,payload.d.pf.2,,
+pf-3,Site_P_PV,Powerflow,payload.d.pf.3,,
+pf-4,Site_P_Akku,Powerflow,payload.d.pf.4,,
+pf-5,Site_Battery Standby,Powerflow,payload.d.pf.5,,
+pf-6,Site_E_Day,Powerflow,payload.d.pf.6,,
+pf-7,Site_E_Total,Powerflow,payload.d.pf.7,,
+pf-8,Site_E_Year,Powerflow,payload.d.pf.8,,
+pf-9,Inv_DT,Powerflow,payload.d.pf.9,,
+pf-10,Inv_E_day,Powerflow,payload.d.pf.10,,
+pf-11,Inv_E_Total,Powerflow,payload.d.pf.11,,
+pf-12,Inv_E_Year,Powerflow,payload.d.pf.12,,
+pf-13,Inv_P,Powerflow,payload.d.pf.13,,
+pf-14,Inv_SOC,Powerflow,payload.d.pf.14,,
+1809-0,Neg_MSW_State,BMS_INFO1,payload.d.1809.0,,
+1809-1,Pos_MSW_State,BMS_INFO1,payload.d.1809.1,,
+1809-2,General_Fault_Flag,BMS_INFO1,payload.d.1809.2,,
+1809-3,General_Warning_Flag,BMS_INFO1,payload.d.1809.3,,
+1809-4,BMS_Status,BMS_INFO1,payload.d.1809.4,,
+1809-8,SOC,BMS_INFO1,payload.d.1809.8,,
+1809-24,Pack_Voltage,BMS_INFO1,payload.d.1809.24,,
+1809-40,Pack_Current,BMS_INFO1,payload.d.1809.40,,
+1809-56,Link_Voltage,BMS_INFO1,payload.d.1809.56,,
+1810-8,Pack_Hi_Cell_Volt,BMS_INFO2,payload.d.1810.8,,
+1810-24,Pack_Lo_Cell_Volt,BMS_INFO2,payload.d.1810.24,,
+1810-40,Pack_Avg_Cell_Volt,BMS_INFO2,payload.d.1810.40,,
+1810-48,Pack_Hi_Cell_Volt_ID,BMS_INFO2,payload.d.1810.48,,
+1810-56,Pack_Lo_Cell_Volt_ID,BMS_INFO2,payload.d.1810.56,,
+1811-0,Pack_Hi_Cell_Temp,BMS_INFO3,payload.d.1811.0,,
+1811-8,Pack_Lo_Cell_Temp,BMS_INFO3,payload.d.1811.8,,
+1811-16,Pack_Avg_Cell_Temp,BMS_INFO3,payload.d.1811.16,,
+1811-24,Pack_Hi_Cell_Temp_ID,BMS_INFO3,payload.d.1811.24,,
+1811-32,Pack_Lo_Cell_Temp_ID,BMS_INFO3,payload.d.1811.32,,
+1811-40,Pack_Hi_Slave_Temp,BMS_INFO3,payload.d.1811.40,,
+1811-48,Pack_Lo_Slave_Temp,BMS_INFO3,payload.d.1811.48,,
+1811-56,Pack_Lo_Slave_Temp_ID,BMS_INFO3,payload.d.1811.56,,
+1811-60,Pack_Hi_Slave_Temp_ID,BMS_INFO3,payload.d.1811.60,,
+1812-0,PEC_Error_counter,BMS_Errors_1,payload.d.1812.0,,
+1812-8,pos_msw_hs_short,BMS_Errors_1,payload.d.1812.8,,
+1812-9,pos_msw_not_closing,BMS_Errors_1,payload.d.1812.9,,
+1812-10,pos_msw_ls_short,BMS_Errors_1,payload.d.1812.10,,
+1812-11,neg_msw_not_closing,BMS_Errors_1,payload.d.1812.11,,
+1812-12,neg_msw_ls_short,BMS_Errors_1,payload.d.1812.12,,
+1812-13,slave_comm_error,BMS_Errors_1,payload.d.1812.13,,
+1812-14,general_warning,BMS_Errors_1,payload.d.1812.14,,
+1812-15,general_error,BMS_Errors_1,payload.d.1812.15,,
+1812-16,cell_abs_overvoltage,BMS_Errors_1,payload.d.1812.16,,
+1812-17,cell_undervoltage,BMS_Errors_1,payload.d.1812.17,,
+1812-18,cell_overvoltage,BMS_Errors_1,payload.d.1812.18,,
+1812-19,neg_msw_not_opening,BMS_Errors_1,payload.d.1812.19,,
+1812-20,neg_msw_welding_warning,BMS_Errors_1,payload.d.1812.20,,
+1812-21,pos_msw_not_opening,BMS_Errors_1,payload.d.1812.21,,
+1812-22,pow_msw_welding_warning,BMS_Errors_1,payload.d.1812.22,,
+1812-23,neg_msw_hs_short,BMS_Errors_1,payload.d.1812.23,,
+1812-24,slave_under_temp,BMS_Errors_1,payload.d.1812.24,,
+1812-25,slave_over_temp,BMS_Errors_1,payload.d.1812.25,,
+1812-26,current_sense_zero_fault,BMS_Errors_1,payload.d.1812.26,,
+1812-27,over_charge_current,BMS_Errors_1,payload.d.1812.27,,
+1812-28,over_discharge_current,BMS_Errors_1,payload.d.1812.28,,
+1812-29,pack_undervoltage,BMS_Errors_1,payload.d.1812.29,,
+1812-30,pack_overvoltage,BMS_Errors_1,payload.d.1812.30,,
+1812-31,cell_abs_undervoltage,BMS_Errors_1,payload.d.1812.31,,
+1812-32,pack_link_volt_diff_error,BMS_Errors_1,payload.d.1812.32,,
+1812-33,hvil_fault,BMS_Errors_1,payload.d.1812.33,,
+1812-34,user_can_heartbeat_error,BMS_Errors_1,payload.d.1812.34,,
+1812-35,precharge_sequence_error,BMS_Errors_1,payload.d.1812.35,,
+1812-36,eeprom_comm_error,BMS_Errors_1,payload.d.1812.36,,
+1812-37,eeprom_data_integrity_error,BMS_Errors_1,payload.d.1812.37,,
+1812-38,cell_under_temp,BMS_Errors_1,payload.d.1812.38,,
+1812-39,cell_over_temp,BMS_Errors_1,payload.d.1812.39,,
+1812-40,rtc_time_incorrect,BMS_Errors_1,payload.d.1812.40,,
+1812-41,cell_temp_unbalance,BMS_Errors_1,payload.d.1812.41,,
+1812-42,temp_sensors_failed_fault,BMS_Errors_1,payload.d.1812.42,,
+1812-43,temp_sensors_failed_warning,BMS_Errors_1,payload.d.1812.43,,
+1812-44,cell_sec_undervoltage,BMS_Errors_1,payload.d.1812.44,,
+1812-45,cell_sec_overvoltage,BMS_Errors_1,payload.d.1812.45,,
+1812-46,Cell_unbalance_fault,BMS_Errors_1,payload.d.1812.46,,
+1812-47,lv_supply_undervoltage,BMS_Errors_1,payload.d.1812.47,,
+1812-48,slave_statst_sftst_error,BMS_Errors_1,payload.d.1812.48,,
+1812-49,slave_mux_sftst_error,BMS_Errors_1,payload.d.1812.49,,
+1812-50,slave_cell_adc_sftst_error,BMS_Errors_1,payload.d.1812.50,,
+1812-51,cell_vs_meas_diff_error,BMS_Errors_1,payload.d.1812.51,,
+1812-52,cell_vs_soc_diff_error,BMS_Errors_1,payload.d.1812.52,,
+1812-53,ltc2949_comm_error,BMS_Errors_1,payload.d.1812.53,,
+1812-54,bal_temp_sensors_failed_warning,BMS_Errors_1,payload.d.1812.54,,
+1812-55,Storage_temp_limits_exceeded,BMS_Errors_1,payload.d.1812.55,,
+1812-62,ltc2949_init_error,BMS_Errors_1,payload.d.1812.62,,
+1812-63,slave_aux_sftst_error,BMS_Errors_1,payload.d.1812.63,,
+1813-8,Dyn_Dschg_limit,BMS_LIMITS,payload.d.1813.8,,
+1813-24,Dyn_Chg_limit,BMS_LIMITS,payload.d.1813.24,,
+1813-32,Max_SlaveBoard_temp,BMS_LIMITS,payload.d.1813.32,,
+1813-40,Max_BoardTemp_ID,BMS_LIMITS,payload.d.1813.40,,
+1814-8,Isolation_Resistance,BMS_IMD,payload.d.1814.8,,
+1814-22,IsoR_meas_active,BMS_IMD,payload.d.1814.22,,
+1814-23,IsoR_valid,BMS_IMD,payload.d.1814.23,,
+1815-8,Precharge_Voltage,BMS_PRECHARGE,payload.d.1815.8,,
+1815-24,Precharge_Time,BMS_PRECHARGE,payload.d.1815.24,,
+1825-0,Accelerometer_x_max,IOUNIT_IMU_x,payload.d.1825.0,,
+1825-16,Accelerometer_x_min,IOUNIT_IMU_x,payload.d.1825.16,,
+1825-32,Magnetometer_x_max,IOUNIT_IMU_x,payload.d.1825.32,,
+1825-48,Magnetometer_x_min,IOUNIT_IMU_x,payload.d.1825.48,,
+1826-0,Accelerometer_y_max,IOUNIT_IMU_y,payload.d.1826.0,,
+1826-16,Accelerometer_y_min,IOUNIT_IMU_y,payload.d.1826.16,,
+1826-32,Magnetometer_y_max,IOUNIT_IMU_y,payload.d.1826.32,,
+1826-48,Magnetometer_y_min,IOUNIT_IMU_y,payload.d.1826.48,,
+1827-0,Accelerometer_z_max,IOUNIT_IMU_z,payload.d.1827.0,,
+1827-16,Accelerometer_z_min,IOUNIT_IMU_z,payload.d.1827.16,,
+1827-32,Magnetometer_z_max,IOUNIT_IMU_z,payload.d.1827.32,,
+1827-48,Magnetometer_z_min,IOUNIT_IMU_z,payload.d.1827.48,,
+1828-0,Accelerometer_sum,IOUNIT_IMU_sum,payload.d.1828.0,,
+1828-32,Magnetometer_sum,IOUNIT_IMU_sum,payload.d.1828.32,,
+1841-0,st_MAIN_task,VCU_MODE,payload.d.1841.0,,
+1841-8,st_Mode_Traverse,VCU_MODE,payload.d.1841.8,,
+1841-16,System_Load,VCU_MODE,payload.d.1841.16,,
+1841-48,VCU 12V,VCU_MODE,payload.d.1841.48,,
+1842-0,cmd_CHARGER,VCU_SYSTEM_STATE,payload.d.1842.0,,
+1842-1,cmd_PP_VALVE,VCU_SYSTEM_STATE,payload.d.1842.1,,
+1842-2,cmd_KEY,VCU_SYSTEM_STATE,payload.d.1842.2,,
+1842-3,cmd_PP_HEATER,VCU_SYSTEM_STATE,payload.d.1842.3,,
+1842-4,cmd_IC,VCU_SYSTEM_STATE,payload.d.1842.4,,
+1842-5,cmd_DCDC,VCU_SYSTEM_STATE,payload.d.1842.5,,
+1842-6,cmd_INVERTER,VCU_SYSTEM_STATE,payload.d.1842.6,,
+1842-7,cmd_TELEMETRY,VCU_SYSTEM_STATE,payload.d.1842.7,,
+1842-8,cmd_BMS,VCU_SYSTEM_STATE,payload.d.1842.8,,
+1842-9,cmd_BMS_active,VCU_SYSTEM_STATE,payload.d.1842.9,,
+1842-16,st_BMS_Timeout,VCU_SYSTEM_STATE,payload.d.1842.16,,
+1842-17,st_CHG_Timeout,VCU_SYSTEM_STATE,payload.d.1842.17,,
+1842-18,st_IC_Timeout,VCU_SYSTEM_STATE,payload.d.1842.18,,
+1842-19,st_IOUNIT_Timeout,VCU_SYSTEM_STATE,payload.d.1842.19,,
+1842-20,st_INVERTER_Timeout,VCU_SYSTEM_STATE,payload.d.1842.20,,
+1842-24,Vehicle_Speed,VCU_SYSTEM_STATE,payload.d.1842.24,,
+1842-40,Ins_Consumption,VCU_SYSTEM_STATE,payload.d.1842.40,,
+1842-56,Avg_Consumption,VCU_SYSTEM_STATE,payload.d.1842.56,,
+1843-0,Allow_Charge,VCU_PERMISSION,payload.d.1843.0,,
+1843-1,Allow_Discharge,VCU_PERMISSION,payload.d.1843.1,,
+1843-2,Allow_Drive,VCU_PERMISSION,payload.d.1843.2,,
+1843-3,Allow_Charge_Start,VCU_PERMISSION,payload.d.1843.3,,
+1843-4,Allow_Charge_Stop,VCU_PERMISSION,payload.d.1843.4,,
+1843-5,Allow_Drive_Start,VCU_PERMISSION,payload.d.1843.5,,
+1843-6,Allow_Drive_Stop,VCU_PERMISSION,payload.d.1843.6,,
+1843-8,KL15_Start_button,VCU_PERMISSION,payload.d.1843.8,,
+1843-9,Start_signal,VCU_PERMISSION,payload.d.1843.9,,
+1843-10,ECO_SW_UP,VCU_PERMISSION,payload.d.1843.10,,
+1843-11,ECO_SW_DOWN,VCU_PERMISSION,payload.d.1843.11,,
+1843-12,KEY_SW,VCU_PERMISSION,payload.d.1843.12,,
+1843-13,KILL_SW,VCU_PERMISSION,payload.d.1843.13,,
+1843-14,REV_SW,VCU_PERMISSION,payload.d.1843.14,,
+1843-15,BRAKE_SW,VCU_PERMISSION,payload.d.1843.15,,
+1844-0,BMS_version_build,Version_Info,payload.d.1844.0,,
+1844-8,BMS_version_major,Version_Info,payload.d.1844.8,,
+1844-16,BMS_version_minor,Version_Info,payload.d.1844.16,,
+1844-32,BMS_version_variant,Version_Info,payload.d.1844.32,,
+1844-48,VCU_version_ver,Version_Info,payload.d.1844.48,,
+1844-56,VCU_version_rev,Version_Info,payload.d.1844.56,,
+1845-40,IC_Odometer,IC_INFO,payload.d.1845.40,,
+1846-0,BMS_Timeout,VCU_TIMEOUT_INFO,payload.d.1846.0,,
+1846-16,INVERTER_Timeout,VCU_TIMEOUT_INFO,payload.d.1846.16,,
+1846-32,CHG_Timeout,VCU_TIMEOUT_INFO,payload.d.1846.32,,
+1846-48,IOUNIT_Timeout,VCU_TIMEOUT_INFO,payload.d.1846.48,,
+1847-0,IC_Timeout,VCU_TIMEOUT_INFO2,payload.d.1847.0,,
+1848-0,Traction_Pump,TMS,payload.d.1848.0,,
+1848-8,PP_Pump,TMS,payload.d.1848.8,,
+1848-16,PP_Coolant_Temp,TMS,payload.d.1848.16,,
+1848-32,CHG_Inlet_Temp,TMS,payload.d.1848.32,,
+1848-48,TMS_Mode,TMS,payload.d.1848.48,,
+1848-56,Traction_Pump_error,TMS,payload.d.1848.56,,
+1848-57,PP_Pump_error,TMS,payload.d.1848.57,,
+1857-0,Extrenal_led,INVERTER_TPDO1,payload.d.1857.0,,
+1857-16,Brake_Lights,INVERTER_TPDO1,payload.d.1857.16,,
+1858-0,Max_Torque,INVERTER_TPDO2,payload.d.1858.0,,
+1858-16,Actual_Torque,INVERTER_TPDO2,payload.d.1858.16,,
+1858-32,Throttle_A,INVERTER_TPDO2,payload.d.1858.32,,
+1858-48,Throttle_B,INVERTER_TPDO2,payload.d.1858.48,,
+1859-0,Drive_Change_State,INVERTER_TPDO3,payload.d.1859.0,,
+1859-16,Driveability_profile,INVERTER_TPDO3,payload.d.1859.16,,
+1859-32,Economy_input,INVERTER_TPDO3,payload.d.1859.32,,
+1859-40,Traction_Drive_State,INVERTER_TPDO3,payload.d.1859.40,,
+1859-48,Vehicle_Speed,INVERTER_TPDO3,payload.d.1859.48,,
+1860-0,Motor_temp,INVERTER_TPDO4,payload.d.1860.0,,
+1860-16,Junction_temp,INVERTER_TPDO4,payload.d.1860.16,,
+1860-32,Capacitor_temp,INVERTER_TPDO4,payload.d.1860.32,,
+1860-48,PCB_temp,INVERTER_TPDO4,payload.d.1860.48,,
+1861-0,Target_Velocity,INVERTER_TPDO5,payload.d.1861.0,,
+1861-32,Velocity,INVERTER_TPDO5,payload.d.1861.32,,
+1862-0,Active,EMCY,payload.d.1862.0,,
+1862-8,Unit_in_preoperational,EMCY,payload.d.1862.8,,
+1862-9,LV_Low_voltage_warning,EMCY,payload.d.1862.9,,
+1862-10,LV_High_voltage_warning,EMCY,payload.d.1862.10,,
+1862-11,Device_too_cold,EMCY,payload.d.1862.11,,
+1862-12,Device_too_hot,EMCY,payload.d.1862.12,,
+1862-13,Motor_in_thermal_cutback,EMCY,payload.d.1862.13,,
+1862-14,Motor_too_cold,EMCY,payload.d.1862.14,,
+1862-15,Motor_Thermistor_Wiring,EMCY,payload.d.1862.15,,
+1862-16,HV_state_warning,EMCY,payload.d.1862.16,,
+1862-17,HV_High_voltage_warning,EMCY,payload.d.1862.17,,
+1862-18,Handbrake_Fault,EMCY,payload.d.1862.18,,
+1862-19,IO_cant_init,EMCY,payload.d.1862.19,,
+1862-20,Pulsed_Enable,EMCY,payload.d.1862.20,,
+1862-21,Throttle_warning,EMCY,payload.d.1862.21,,
+1862-22,CANbus_wiring,EMCY,payload.d.1862.22,,
+1862-23,Other_warning,EMCY,payload.d.1862.23,,
+1862-24,Drive_Switch_Fault,EMCY,payload.d.1862.24,,
+1862-25,Throttle_Fault,EMCY,payload.d.1862.25,,
+1862-26,Other_Drive_inhibit_fault,EMCY,payload.d.1862.26,,
+1862-27,Direction_Change,EMCY,payload.d.1862.27,,
+1862-28,Motor_Overtemp,EMCY,payload.d.1862.28,,
+1862-29,Motor_Overspeed,EMCY,payload.d.1862.29,,
+1862-30,Cutback_mode,EMCY,payload.d.1862.30,,
+1862-31,CANbus_Drive_inhibit_error,EMCY,payload.d.1862.31,,
+1862-32,Severe_config_error,EMCY,payload.d.1862.32,,
+1862-33,Other_severe_fault,EMCY,payload.d.1862.33,,
+1862-34,Pulsing_Disabled,EMCY,payload.d.1862.34,,
+1862-35,Motor_stalled,EMCY,payload.d.1862.35,,
+1862-36,RPDO_Timeout_severe,EMCY,payload.d.1862.36,,
+1862-37,Power_Supply_Critical,EMCY,payload.d.1862.37,,
+1862-38,Severe_internal_HW_error,EMCY,payload.d.1862.38,,
+1862-39,Severe_internal_SW_fault,EMCY,payload.d.1862.39,,
+1862-40,Motor_Overcurrent_Fault,EMCY,payload.d.1862.40,,
+1862-41,Current_Control_Fault,EMCY,payload.d.1862.41,,
+1862-42,Motor_Overspeed_Fault,EMCY,payload.d.1862.42,,
+1862-43,didt_fault_suspected_sc,EMCY,payload.d.1862.43,,
+1862-44,Motor_Over_temperature,EMCY,payload.d.1862.44,,
+1862-45,Heatsink_overtemp,EMCY,payload.d.1862.45,,
+1862-46,Int_supply_fault,EMCY,payload.d.1862.46,,
+1862-47,Device_under_temp,EMCY,payload.d.1862.47,,
+1862-48,Config_or_SW_error,EMCY,payload.d.1862.48,,
+1862-49,Encoder_Fault,EMCY,payload.d.1862.49,,
+1862-50,KL15_30_Too_high,EMCY,payload.d.1862.50,,
+1862-51,IO_Error,EMCY,payload.d.1862.51,,
+1862-52,HV_Overvoltage,EMCY,payload.d.1862.52,,
+1862-53,HV_Undervoltage,EMCY,payload.d.1862.53,,
+1862-54,CANbus_error,EMCY,payload.d.1862.54,,
+1862-55,Device_overcurrent,EMCY,payload.d.1862.55,,
+1862-56,Incompatible_HW_version,EMCY,payload.d.1862.56,,
+1862-57,Calibration_Fault,EMCY,payload.d.1862.57,,
+1862-58,PFOvervoltage,EMCY,payload.d.1862.58,,
+1862-59,Powerframe_Fault,EMCY,payload.d.1862.59,,
+1862-60,MOSFET_IGBT:_SHORT,EMCY,payload.d.1862.60,,
+1862-61,MOSFET_sc_incomplete,EMCY,payload.d.1862.61,,
+1862-62,IGBT_Driver_Failure,EMCY,payload.d.1862.62,,
+1862-63,Invalid_PF_Rating,EMCY,payload.d.1862.63,,
+1873-0,OBC_status,OBC_Status,payload.d.1873.0,,
+1873-2,OBC_HVBContactorRequest,OBC_Status,payload.d.1873.2,,
+1873-3,OBC_HVBFastChargeRequest,OBC_Status,payload.d.1873.3,,
+1873-4,OBC_HVBIsolationDisable,OBC_Status,payload.d.1873.4,,
+1873-5,OBC_CoolingRequest,OBC_Status,payload.d.1873.5,,
+1873-8,J1772_ProximityState,OBC_Status,payload.d.1873.8,,
+1873-10,J1772_PilotState,OBC_Status,payload.d.1873.10,,
+1873-11,J1772_PilotError,OBC_Status,payload.d.1873.11,,
+1873-12,J1772_LockEngaged,OBC_Status,payload.d.1873.12,,
+1873-13,J1772_LockFault,OBC_Status,payload.d.1873.13,,
+1873-16,OBC_Interface_Version,OBC_Status,payload.d.1873.16,,
+1873-24,OBC_Temperature,OBC_Status,payload.d.1873.24,,
+1873-40,OBC_DCVoltage,OBC_Status,payload.d.1873.40,,
+1873-56,OBC_DCCurrent,OBC_Status,payload.d.1873.56,,
+1874-8,OBC_AC_Current,OBC_AC_Status,payload.d.1874.8,,
+1874-24,OBC_AC_Voltage,OBC_AC_Status,payload.d.1874.24,,
+1874-40,OBC_AC_CurrentLimit,OBC_AC_Status,payload.d.1874.40,,
+1874-56,OBC_AC_NoLoadVoltage,OBC_AC_Status,payload.d.1874.56,,
+1875-0,OBC_Session_type,OBC_SessionInfo,payload.d.1875.0,,
+1876-0,OBC_PeriodicResponse_PDID,UDS_OBC_PeriodicResponse,payload.d.1876.0,,
+1876-8,OBC_AppVersionMajor,UDS_OBC_PeriodicResponse,payload.d.1876.8,,
+1876-16,OBC_AppVersionMinor,UDS_OBC_PeriodicResponse,payload.d.1876.16,,
+1876-32,OBC_AppVersionRevision,UDS_OBC_PeriodicResponse,payload.d.1876.32,,
+1880-0,OBC_Fault_DABTransf_Temp,OBC_FaultRegisters,payload.d.1880.0,,
+1880-1,OBC_Fault_Batt_PosMaxCur,OBC_FaultRegisters,payload.d.1880.1,,
+1880-2,OBC_Fault_Batt_NexMaxCur,OBC_FaultRegisters,payload.d.1880.2,,
+1880-3,OBC_Fault_AC_Frequency,OBC_FaultRegisters,payload.d.1880.3,,
+1880-8,OBC_Fault_ADCRange_BattVolt,OBC_FaultRegisters,payload.d.1880.8,,
+1880-9,OBC_Fault_Temp_Inlet,OBC_FaultRegisters,payload.d.1880.9,,
+1880-10,OBC_Fault_Temp_Discharge,OBC_FaultRegisters,payload.d.1880.10,,
+1880-11,OBC_Fault_Temp_Rationality,OBC_FaultRegisters,payload.d.1880.11,,
+1880-12,OBC_Fault_DAB_PhaseCur,OBC_FaultRegisters,payload.d.1880.12,,
+1880-13,OBC_Fault_Batt_OutputCur,OBC_FaultRegisters,payload.d.1880.13,,
+1880-14,OBC_Fault_AC_PhaseL1Cur,OBC_FaultRegisters,payload.d.1880.14,,
+1880-15,OBC_Fault_AC_PhaseL2Cur,OBC_FaultRegisters,payload.d.1880.15,,
+1880-16,OBC_Fault_GateDriver,OBC_FaultRegisters,payload.d.1880.16,,
+1880-17,OBC_Fault_Batt_OVolt,OBC_FaultRegisters,payload.d.1880.17,,
+1880-18,OBC_Fault_Batt_UVolt,OBC_FaultRegisters,payload.d.1880.18,,
+1880-19,OBC_Fault_ADCRange_DCLinkVolt,OBC_FaultRegisters,payload.d.1880.19,,
+1880-20,OBC_Fault_ADCRange_BattCur,OBC_FaultRegisters,payload.d.1880.20,,
+1880-21,OBC_Fault_ADCRange_ACVolt,OBC_FaultRegisters,payload.d.1880.21,,
+1880-22,OBC_Fault_ADCRange_ACL1Cur,OBC_FaultRegisters,payload.d.1880.22,,
+1880-23,OBC_Fault_ADCRange_ACL2Cur,OBC_FaultRegisters,payload.d.1880.23,,
+1880-24,OBC_Fault_DCLink_OVolt,OBC_FaultRegisters,payload.d.1880.24,,
+1880-25,OBC_Fault_DCLink_UVolt,OBC_FaultRegisters,payload.d.1880.25,,
+1880-26,OBC_Fault_AC_PosPhaseCur,OBC_FaultRegisters,payload.d.1880.26,,
+1880-27,OBC_Fault_AC_NegPhaseCur,OBC_FaultRegisters,payload.d.1880.27,,
+1880-28,OBC_Fault_DAB_PosPhaseCur,OBC_FaultRegisters,payload.d.1880.28,,
+1880-29,OBC_Fault_DAB_NegPhaseCur,OBC_FaultRegisters,payload.d.1880.29,,
+1880-30,OBC_Fault_DCLink_VoltMaxSetPoint,OBC_FaultRegisters,payload.d.1880.30,,
+1880-31,OBC_Fault_DCLink_VoltMinSetPoint,OBC_FaultRegisters,payload.d.1880.31,,
+1880-40,OBC_Fault_GateDAB_Top1UVolt,OBC_FaultRegisters,payload.d.1880.40,,
+1880-41,OBC_Fault_GateDAB_Bottom1UVolt,OBC_FaultRegisters,payload.d.1880.41,,
+1880-42,OBC_Fault_GateDAB_Top2UVolt,OBC_FaultRegisters,payload.d.1880.42,,
+1880-43,OBC_Fault_GateDAB_Bottom2UVolt,OBC_FaultRegisters,payload.d.1880.43,,
+1880-44,OBC_Fault_GateDAB_Top3UVolt,OBC_FaultRegisters,payload.d.1880.44,,
+1880-45,OBC_Fault_GateDAB_Bottom3UVolt,OBC_FaultRegisters,payload.d.1880.45,,
+1880-46,OBC_Fault_GateDAB_Top4UVolt,OBC_FaultRegisters,payload.d.1880.46,,
+1880-47,OBC_Fault_GateDAB_Bottom4UVolt,OBC_FaultRegisters,payload.d.1880.47,,
+1880-48,OBC_Fault_GateDAB_Top1Desat,OBC_FaultRegisters,payload.d.1880.48,,
+1880-49,OBC_Fault_GateDAB_Bottom1DeSat,OBC_FaultRegisters,payload.d.1880.49,,
+1880-50,OBC_Fault_GateDAB_Top2Desat,OBC_FaultRegisters,payload.d.1880.50,,
+1880-51,OBC_Fault_GateDAB_Bottom2DeSat,OBC_FaultRegisters,payload.d.1880.51,,
+1880-52,OBC_Fault_GateDAB_Top3Desat,OBC_FaultRegisters,payload.d.1880.52,,
+1880-53,OBC_Fault_GateDAB_Bottom3DeSat,OBC_FaultRegisters,payload.d.1880.53,,
+1880-54,OBC_Fault_GateDAB_Top4Desat,OBC_FaultRegisters,payload.d.1880.54,,
+1880-55,OBC_Fault_GateDAB_Bottom4DeSat,OBC_FaultRegisters,payload.d.1880.55,,
+1880-56,OBC_Fault_Gate_Top1Desat,OBC_FaultRegisters,payload.d.1880.56,,
+1880-57,OBC_Fault_Gate_Bottom1DeSat,OBC_FaultRegisters,payload.d.1880.57,,
+1880-58,OBC_Fault_Gate_Top2Desat,OBC_FaultRegisters,payload.d.1880.58,,
+1880-59,OBC_Fault_Gate_Bottom2DeSat,OBC_FaultRegisters,payload.d.1880.59,,
+1880-60,OBC_Fault_Gate_Top1UVolt,OBC_FaultRegisters,payload.d.1880.60,,
+1880-61,OBC_Fault_Gate_Bottom1UVolt,OBC_FaultRegisters,payload.d.1880.61,,
+1880-62,OBC_Fault_Gate_Top2UVolt,OBC_FaultRegisters,payload.d.1880.62,,
+1880-63,OBC_Fault_Gate_Bottom2UVolt,OBC_FaultRegisters,payload.d.1880.63,,
+gprs-rssi,rcvd_sig_strength,GPRS/GSM data,payload.d.gprs.rssi,,
+gprs-mnc,mobile_network_code,GPRS/GSM data,payload.d.gprs.mnc,,
+gprs-rat,radio_access_technology,GPRS/GSM data,payload.d.gprs.rat,,
+gprs-mcc,mobile_country_code,GPRS/GSM data,payload.d.gprs.mcc,,
+gprs-nrs,network_reg_status,GPRS/GSM data,payload.d.gprs.nrs,,
+gprs-cid,cell_id,GPRS/GSM data,payload.d.gprs.cid,,
+gprs-lac,location area code,GPRS/GSM data,payload.d.gprs.lac,,
+gps-agps,A-GPS,GPS data,payload.d.gps.agps,,
+gps-spd,Speed,GPS data,payload.d.gps.spd,,km/h
+gps-gpsjamm,GPS Jamming,GPS data,payload.d.gps.gpsjamm,,
+gps-sat,Satellites,GPS data,payload.d.gps.sat,,
+gps-gpsfix,GPS fix,GPS data,payload.d.gps.gpsfix,,
+gps-alt,Altitude,GPS data,payload.d.gps.alt,,m
+gps-hdg,Heading,GPS data,payload.d.gps.hdg,,degrees
+gps-v_mspd,Max_spd_valid,GPS data,payload.d.gps.v_mspd,,
+gps-long,Longitude,GPS data,payload.d.gps.long,,decimal degrees
+gps-glfix,GLONASS fix,GPS data,payload.d.gps.glfix,,
+gps-pfix,Position Fix,GPS data,payload.d.gps.pfix,,
+gps-trip1,Trip 1,GPS data,payload.d.gps.trip1,,
+gps-trip2,Trip 2,GPS data,payload.d.gps.trip2,,
+gps-v_spd,spd_valid,GPS data,payload.d.gps.v_spd,,
+gps-max_spd,Max Speed,GPS data,payload.d.gps.max_spd,,km/h
+gps-gpstime,GPS time,GPS data,payload.d.gps.gpstime,,
+gps-cfix,Current Fix,GPS data,payload.d.gps.cfix,,
+gps-lat,Latitude,GPS data,payload.d.gps.lat,,decimal degrees
+a9-din6,din6,Aplicom A9 general data,payload.d.a9.din6,,
+a9-din5,din5,Aplicom A9 general data,payload.d.a9.din5,,
+a9-din4,din4,Aplicom A9 general data,payload.d.a9.din4,,
+a9-din3,din3,Aplicom A9 general data,payload.d.a9.din3,,
+a9-din2,din2,Aplicom A9 general data,payload.d.a9.din2,,
+a9-din1,din1,Aplicom A9 general data,payload.d.a9.din1,,
+a9-cnt,Snapshot Counter,Aplicom A9 general data,payload.d.a9.cnt,,
+a9-pwr,supply_voltage,Aplicom A9 general data,payload.d.a9.pwr,,
+a9-ad2,ad2,Aplicom A9 general data,payload.d.a9.ad2,,
+a9-ad1,ad1,Aplicom A9 general data,payload.d.a9.ad1,,
+a9-out2,ao2,Aplicom A9 general data,payload.d.a9.out2,,
+a9-ad4,ad4,Aplicom A9 general data,payload.d.a9.ad4,,
+a9-ign,ign,Aplicom A9 general data,payload.d.a9.ign,,
+a9-ad3,ad3,Aplicom A9 general data,payload.d.a9.ad3,,
+a9-bat,battery_voltage,Aplicom A9 general data,payload.d.a9.bat,,
+a9-fb1,flag_b1,Aplicom A9 general data,payload.d.a9.fb1,,
+a9-fb0,flag_b0,Aplicom A9 general data,payload.d.a9.fb0,,
+a9-fb3,flag_b3,Aplicom A9 general data,payload.d.a9.fb3,,
+a9-fb2,flag_b2,Aplicom A9 general data,payload.d.a9.fb2,,
+a9-out1,ao1,Aplicom A9 general data,payload.d.a9.out1,,
+a9-fb5,flag_b5,Aplicom A9 general data,payload.d.a9.fb5,,
+a9-fb4,flag_b4,Aplicom A9 general data,payload.d.a9.fb4,,
+a9-fb7,flag_b7,Aplicom A9 general data,payload.d.a9.fb7,,
+a9-fb6,flag_b6,Aplicom A9 general data,payload.d.a9.fb6,,
+1-1,Energy.Active.Import,Meter values,payload.d.1.1,,
+2-1,item1,Modbus values,payload.d.2.1,,
+2-2,L1 voltage,Modbus values,payload.d.2.2,,
+2-3,L2 voltage,Modbus values,payload.d.2.3,,
+2-4,L3 voltage,Modbus values,payload.d.2.4,,
+2-5,Grid frequency,Modbus values,payload.d.2.5,,
+2-6,item2,Modbus values,payload.d.2.6,,
+2-7,L1 current,Modbus values,payload.d.2.7,,
+2-8,L2 current,Modbus values,payload.d.2.8,,
+2-9,L3 current,Modbus values,payload.d.2.9,,
+2-10,Charge Power,Modbus values,payload.d.2.10,,
+2-11,L1 power,Modbus values,payload.d.2.11,,
+2-12,L2 power,Modbus values,payload.d.2.12,,
+2-13,L3 power,Modbus values,payload.d.2.13,,
+2-14,Actual voltage EV,Modbus values,payload.d.2.14,,
+2-15,Actual current EV,Modbus values,payload.d.2.15,,
+2-16,Maximum voltage EV,Modbus values,payload.d.2.16,,
+2-17,Minimal voltage EV,Modbus values,payload.d.2.17,,
+2-18,Maximum current EV,Modbus values,payload.d.2.18,,
+2-19,Minimal current EV,Modbus values,payload.d.2.19,,
+2-20,session_charge_energy,Modbus values,payload.d.2.20,,
+2-21,insulation_resistance,Modbus values,payload.d.2.21,,
+2-22,voltage_setpoint,Modbus values,payload.d.2.22,,
+2-23,current_setpoint,Modbus values,payload.d.2.23,,
+2-24,allowed_modes,Modbus values,payload.d.2.24,,
+2-25,total_active_energy,Modbus values,payload.d.2.25,,
+2-26,total_forward_active_energy,Modbus values,payload.d.2.26,,
+2-27,total_backward_active_energy,Modbus values,payload.d.2.27,,
+2-28,total_reactive_energy,Modbus values,payload.d.2.28,,
+2-29,power_factor,Modbus values,payload.d.2.29,,
+2-30,l1_power_factor,Modbus values,payload.d.2.30,,
+2-31,l2_power_factor,Modbus values,payload.d.2.31,,
+2-32,l3_power_factor,Modbus values,payload.d.2.32,,
+2-33,t1_cabinet_analog,Modbus values,payload.d.2.33,,
+2-34,t1_cabinet_digital,Modbus values,payload.d.2.34,,
+2-35,t_power_unit,Modbus values,payload.d.2.35,,
+2-36,humidity,Modbus values,payload.d.2.36,,
+2-37,supply_voltage,Modbus values,payload.d.2.37,,
+2-38,internal_12v_power_supply,Modbus values,payload.d.2.38,,
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
+1-1,L1 current,L1 (A) values,payload.d.1.1,,A
+1-2,L1 voltage,L1 (A) values,payload.d.1.2,,V
+1-3,L1 active power,L1 (A) values,payload.d.1.3,,W
+1-4,L1 apparent power,L1 (A) values,payload.d.1.4,,VA
+1-5,L1 Power factor,L1 (A) values,payload.d.1.5,,
+1-6,L1 frequency,L1 (A) values,payload.d.1.6,,Hz
+1-7,L1 total active energy,L1 (A) values,payload.d.1.7,,Wh
+1-8,L1 total active returned energy,L1 (A) values,payload.d.1.8,,Wh
+2-1,L2 current,L2 (B) values,payload.d.2.1,,A
+2-2,L2 voltage,L2 (B) values,payload.d.2.2,,V
+2-3,L2 active power,L2 (B) values,payload.d.2.3,,W
+2-4,L2 apparent power,L2 (B) values,payload.d.2.4,,VA
+2-5,L2 Power factor,L2 (B) values,payload.d.2.5,,
+2-6,L2 frequency,L2 (B) values,payload.d.2.6,,Hz
+2-7,L2 total active energy,L2 (B) values,payload.d.2.7,,Wh
+2-8,L3 total active returned energy,L2 (B) values,payload.d.2.8,,Wh
+3-1,L3 current,L3 (C) values,payload.d.3.1,,A
+3-2,L3 voltage,L3 (C) values,payload.d.3.2,,V
+3-3,L3 active power,L3 (C) values,payload.d.3.3,,W
+3-4,L3 apparent power,L3 (C) values,payload.d.3.4,,VA
+3-5,L3 Power factor,L3 (C) values,payload.d.3.5,,
+3-6,L3 frequency,L3 (C) values,payload.d.3.6,,Hz
+3-7,L3 total active energy,L3 (C) values,payload.d.3.7,,Wh
+3-8,L3 total active returned energy,L3 (C) values,payload.d.3.8,,Wh
+4-1,N current,Total values,payload.d.4.1,,A
+4-2,Total current,Total values,payload.d.4.2,,V
+4-3,Total active power,Total values,payload.d.4.3,,W
+4-4,Total apparent power,Total values,payload.d.4.4,,VA
+4-5,Total active energy,Total values,payload.d.4.5,,Wh
+4-6,Total active returned energy,Total values,payload.d.4.6,,Wh
